@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>藝術 &#8211; 企鵝旅行手札</title>
+	<atom:link href="https://indeedinvest.info/tag/%E8%97%9D%E8%A1%93/feed/" rel="self" type="application/rss+xml" />
+	<link>https://indeedinvest.info</link>
+	<description>慢一點，靈魂才跟得上</description>
+	<lastBuildDate>Sun, 09 Aug 2020 08:55:17 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<item>
+		<title>香川・直島 &#124; 豐富心靈的藝術之旅</title>
+		<link>https://indeedinvest.info/kagawa-naoshima-art-trip/</link>
+				<pubDate>Tue, 21 Jul 2020 07:13:17 +0000</pubDate>
+		<dc:creator><![CDATA[at12885]]></dc:creator>
+				<category><![CDATA[旅行遊記]]></category>
+		<category><![CDATA[日本]]></category>
+		<category><![CDATA[直島]]></category>
+		<category><![CDATA[藝術]]></category>
+		<category><![CDATA[香川]]></category>
+
+		<guid isPermaLink="false">https://indeedinvest.info/?p=1280</guid>
+				<description><![CDATA[瀨戶內海有許多星羅棋布的小島，在三年一度的國際藝術季時期會吸引來自世界各國的旅客前往朝聖。 [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>
