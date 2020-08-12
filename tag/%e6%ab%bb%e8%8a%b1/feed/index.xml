@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>櫻花 &#8211; 企鵝旅行手札</title>
+	<atom:link href="https://indeedinvest.info/tag/%E6%AB%BB%E8%8A%B1/feed/" rel="self" type="application/rss+xml" />
+	<link>https://indeedinvest.info</link>
+	<description>慢一點，靈魂才跟得上</description>
+	<lastBuildDate>Wed, 12 Aug 2020 13:29:59 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<item>
+		<title>東京・中目黒 &#124; 星巴克臻選®東京烘焙工坊 &#8211; 咖啡夢工廠巡禮</title>
+		<link>https://indeedinvest.info/tokyo-nakameguro-starbucks-reserve-roastery/</link>
+				<pubDate>Sat, 01 Feb 2020 00:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[at12885]]></dc:creator>
+				<category><![CDATA[旅行遊記]]></category>
+		<category><![CDATA[日本]]></category>
+		<category><![CDATA[中目黑]]></category>
+		<category><![CDATA[咖啡]]></category>
+		<category><![CDATA[散步]]></category>
+		<category><![CDATA[東京]]></category>
+		<category><![CDATA[櫻花]]></category>
+
+		<guid isPermaLink="false">https://indeedinvest.info/?p=1515</guid>
+				<description><![CDATA[咖啡對你來說是什麼的存在呢？是清晨的良伴？是熬夜的好友？還是一種飲品？無論答案是什麼，對我 [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>
