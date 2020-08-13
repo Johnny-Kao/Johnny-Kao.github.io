@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>園林 &#8211; 企鵝旅行手札</title>
+	<atom:link href="https://indeedinvest.info/tag/%E5%9C%92%E6%9E%97/feed/" rel="self" type="application/rss+xml" />
+	<link>https://indeedinvest.info</link>
+	<description>慢一點，靈魂才跟得上</description>
+	<lastBuildDate>Thu, 13 Aug 2020 11:19:42 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<item>
+		<title>香川・高松 &#124; 栗林公園訪園林</title>
+		<link>https://indeedinvest.info/kagawa-ritsurin-garden-visiting-japanese-garden/</link>
+				<pubDate>Wed, 22 Jul 2020 10:00:26 +0000</pubDate>
+		<dc:creator><![CDATA[at12885]]></dc:creator>
+				<category><![CDATA[旅行遊記]]></category>
+		<category><![CDATA[日本]]></category>
+		<category><![CDATA[公園]]></category>
+		<category><![CDATA[園林]]></category>
+		<category><![CDATA[散步]]></category>
+		<category><![CDATA[日式建築]]></category>
+		<category><![CDATA[香川]]></category>
+
+		<guid isPermaLink="false">https://indeedinvest.info/?p=1575</guid>
+				<description><![CDATA[位於香川縣高松的栗林公園，曾經法國權威旅遊指南米其林「最值得專程旅行」的三星評價，擁有40 [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>
