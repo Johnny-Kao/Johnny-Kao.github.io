@@ -12,7 +12,7 @@
 	<atom:link href="https://indeedinvest.info/category/%E6%97%A5%E6%9C%AC/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indeedinvest.info</link>
 	<description>慢一點，靈魂才跟得上</description>
-	<lastBuildDate>Sun, 16 Aug 2020 12:02:36 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 16 Aug 2020 13:20:49 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,20 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.3.2</generator>
 	<item>
+		<title>香川・高松 &#124; 川福本店 &#8211; 烏龍麵探險</title>
+		<link>https://indeedinvest.info/kagawa-takamatsu-kawafuku-ramen/</link>
+				<pubDate>Thu, 23 Jul 2020 13:04:31 +0000</pubDate>
+		<dc:creator><![CDATA[at12885]]></dc:creator>
+				<category><![CDATA[旅行遊記]]></category>
+		<category><![CDATA[日本]]></category>
+		<category><![CDATA[拉麵]]></category>
+		<category><![CDATA[烏龍麵]]></category>
+		<category><![CDATA[香川]]></category>
+
+		<guid isPermaLink="false">https://indeedinvest.info/?p=1662</guid>
+				<description><![CDATA[一提到香川縣高松，大部分的人一定直接聯想到知名的「讚岐烏龍麵」，其中最受歡迎的探索方式就是 [&#8230;]]]></description>
+									</item>
+		<item>
 		<title>香川・小豆島 &#124; 拜訪橄欖和醬油的故鄉</title>
 		<link>https://indeedinvest.info/kagawa-shodo-island-an-island-full-of-olives/</link>
 				<pubDate>Thu, 23 Jul 2020 00:30:00 +0000</pubDate>
@@ -147,22 +161,6 @@
 
 		<guid isPermaLink="false">https://indeedinvest.info/?p=1182</guid>
 				<description><![CDATA[河口湖是富士五湖之一，天氣好的時候，富士山倒映在湖面的景緻更是吸引不少人朝聖，除了美麗的景 [&#8230;]]]></description>
-									</item>
-		<item>
-		<title>東京・中目黒 &#124; 星巴克臻選®東京烘焙工坊 &#8211; 咖啡夢工廠巡禮</title>
-		<link>https://indeedinvest.info/tokyo-nakameguro-starbucks-reserve-roastery/</link>
-				<pubDate>Sat, 01 Feb 2020 00:00:51 +0000</pubDate>
-		<dc:creator><![CDATA[at12885]]></dc:creator>
-				<category><![CDATA[旅行遊記]]></category>
-		<category><![CDATA[日本]]></category>
-		<category><![CDATA[中目黑]]></category>
-		<category><![CDATA[咖啡]]></category>
-		<category><![CDATA[散步]]></category>
-		<category><![CDATA[東京]]></category>
-		<category><![CDATA[櫻花]]></category>
-
-		<guid isPermaLink="false">https://indeedinvest.info/?p=1515</guid>
-				<description><![CDATA[咖啡對你來說是什麼的存在呢？是清晨的良伴？是熬夜的好友？還是一種飲品？無論答案是什麼，對我 [&#8230;]]]></description>
 									</item>
 	</channel>
 </rss>

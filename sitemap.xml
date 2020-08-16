@@ -3,8 +3,13 @@
 		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://indeedinvest.info/</loc>
-	<lastmod>2020-08-16T21:21:00+01:00</lastmod>
+	<lastmod>2020-08-16T22:25:00+01:00</lastmod>
 	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://indeedinvest.info/kagawa-takamatsu-kawafuku-ramen/</loc>
+	<lastmod>2020-08-16T22:25:00+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://indeedinvest.info/kagawa-shodo-island-an-island-full-of-olives/</loc>
