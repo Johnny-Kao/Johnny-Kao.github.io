@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>住宿開箱 &#8211; 企鵝旅行手札</title>
+	<atom:link href="https://indeedinvest.info/category/%E4%BD%8F%E5%AE%BF%E9%96%8B%E7%AE%B1/feed/" rel="self" type="application/rss+xml" />
+	<link>https://indeedinvest.info</link>
+	<description>慢一點，靈魂才跟得上</description>
+	<lastBuildDate>Sat, 22 Aug 2020 11:22:54 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<item>
+		<title>香川住宿・高松 &#124; 胡拉頓艙旅行書本酒店 &#8211; 木製風格的膠囊酒店</title>
+		<link>https://indeedinvest.info/kagawa-takamatsu-hotel-hulatoncabin-takamatsu/</link>
+				<pubDate>Tue, 21 Jul 2020 17:27:00 +0000</pubDate>
+		<dc:creator><![CDATA[at12885]]></dc:creator>
+				<category><![CDATA[住宿開箱]]></category>
+		<category><![CDATA[日本]]></category>
+		<category><![CDATA[香川]]></category>
+
+		<guid isPermaLink="false">https://indeedinvest.info/?p=1701</guid>
+				<description><![CDATA[旅行是離開自己熟悉的地方到陌生的地方探險，如果能夠在過程中遇到有趣的旅伴，那麼再好也不過了 [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>
