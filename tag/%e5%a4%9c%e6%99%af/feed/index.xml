@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>夜景 &#8211; 企鵝旅行手札</title>
+	<atom:link href="https://indeedinvest.info/tag/%E5%A4%9C%E6%99%AF/feed/" rel="self" type="application/rss+xml" />
+	<link>https://indeedinvest.info</link>
+	<description>慢一點，靈魂才跟得上</description>
+	<lastBuildDate>Wed, 30 Sep 2020 18:10:11 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<item>
+		<title>北海道・函館 &#124; 尋覓專屬的百萬夜景</title>
+		<link>https://indeedinvest.info/hokkaido-hakodate-magnificent-night-view/</link>
+				<pubDate>Sun, 29 Dec 2019 14:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[at12885]]></dc:creator>
+				<category><![CDATA[旅行遊記]]></category>
+		<category><![CDATA[日本]]></category>
+		<category><![CDATA[下雪]]></category>
+		<category><![CDATA[函館]]></category>
+		<category><![CDATA[北海道]]></category>
+		<category><![CDATA[夜景]]></category>
+
+		<guid isPermaLink="false">https://indeedinvest.info/?p=1903</guid>
+				<description><![CDATA[帶有異國風情的北海道函館，可以享受場地直送的海鮮，欣賞函館山的百萬美景，體驗文青生活的金森 [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>
