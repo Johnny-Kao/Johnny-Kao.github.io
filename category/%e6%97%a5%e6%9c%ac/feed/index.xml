@@ -12,7 +12,7 @@
 	<atom:link href="https://indeedinvest.info/category/%E6%97%A5%E6%9C%AC/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indeedinvest.info</link>
 	<description>慢一點，靈魂才跟得上</description>
-	<lastBuildDate>Sat, 22 Aug 2020 13:14:02 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 23 Oct 2020 15:09:08 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,20 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.3.2</generator>
 	<item>
+		<title>神奈川・鎌倉 &#124; 夏日拜訪屬於自己的青春</title>
+		<link>https://indeedinvest.info/kanagawa-kamakura-travel-to-sea/</link>
+				<pubDate>Sun, 30 Aug 2020 14:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[at12885]]></dc:creator>
+				<category><![CDATA[旅行遊記]]></category>
+		<category><![CDATA[日本]]></category>
+		<category><![CDATA[古寺]]></category>
+		<category><![CDATA[神奈川]]></category>
+		<category><![CDATA[鐮倉]]></category>
+
+		<guid isPermaLink="false">https://indeedinvest.info/?p=1938</guid>
+				<description><![CDATA[鐮倉、江之島是少數讓我多次拜訪的景點，初次拜訪走馬看花，再次拜訪嘻嘻品味。比起其他城市，這 [&#8230;]]]></description>
+									</item>
+		<item>
 		<title>香川・高松 &#124; 川福本店 &#8211; 烏龍麵探險</title>
 		<link>https://indeedinvest.info/kagawa-takamatsu-kawafuku-ramen/</link>
 				<pubDate>Thu, 23 Jul 2020 13:04:31 +0000</pubDate>
@@ -147,19 +161,6 @@
 
 		<guid isPermaLink="false">https://indeedinvest.info/?p=1153</guid>
 				<description><![CDATA[淺草寺是東京都內歷史最悠久的寺院，每年吸引眾多觀光客拜訪。早上的淺草寺人聲鼎沸，作為一個景 [&#8230;]]]></description>
-									</item>
-		<item>
-		<title>茨城・霞浦 &#124; 霞浦湖自行車環湖</title>
-		<link>https://indeedinvest.info/ibaraki-kasumiura-biking-trip/</link>
-				<pubDate>Sun, 03 May 2020 14:10:36 +0000</pubDate>
-		<dc:creator><![CDATA[at12885]]></dc:creator>
-				<category><![CDATA[旅行遊記]]></category>
-		<category><![CDATA[日本]]></category>
-		<category><![CDATA[自行車]]></category>
-		<category><![CDATA[茨城]]></category>
-
-		<guid isPermaLink="false">https://indeedinvest.info/?p=957</guid>
-				<description><![CDATA[為了促進當地觀光產業發展，茨城縣2018年開始推動「茨城自行車活用推進計畫」著手打造自行車 [&#8230;]]]></description>
 									</item>
 	</channel>
 </rss>
