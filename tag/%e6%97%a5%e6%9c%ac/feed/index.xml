@@ -12,7 +12,7 @@
 	<atom:link href="https://indeedinvest.info/tag/%E6%97%A5%E6%9C%AC/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indeedinvest.info</link>
 	<description>慢一點，靈魂才跟得上</description>
-	<lastBuildDate>Fri, 23 Oct 2020 15:09:08 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 29 Oct 2020 14:34:05 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,21 @@
 
 		<guid isPermaLink="false">https://indeedinvest.info/?p=1938</guid>
 				<description><![CDATA[鐮倉、江之島是少數讓我多次拜訪的景點，初次拜訪走馬看花，再次拜訪嘻嘻品味。比起其他城市，這 [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>神奈川・江之島 &#124; 被大海擁抱的夏季</title>
+		<link>https://indeedinvest.info/kanagawa-enoshima-summer-walking/</link>
+				<pubDate>Sun, 30 Aug 2020 14:54:21 +0000</pubDate>
+		<dc:creator><![CDATA[at12885]]></dc:creator>
+				<category><![CDATA[旅行遊記]]></category>
+		<category><![CDATA[日本]]></category>
+		<category><![CDATA[夏天]]></category>
+		<category><![CDATA[江之島]]></category>
+		<category><![CDATA[海邊]]></category>
+		<category><![CDATA[神奈川]]></category>
+
+		<guid isPermaLink="false">https://indeedinvest.info/?p=2008</guid>
+				<description><![CDATA[拜訪江之島你可以欣賞到海天一色的浩瀚，也可以享受落日餘暉的絢麗，在海風的吹拂下，一切的眾生 [&#8230;]]]></description>
 									</item>
 		<item>
 		<title>香川・高松 &#124; 川福本店 &#8211; 烏龍麵探險</title>
@@ -147,20 +162,6 @@
 
 		<guid isPermaLink="false">https://indeedinvest.info/?p=977</guid>
 				<description><![CDATA[厭倦了嘈雜的觀光客，想要體會靜謐緩慢的東京生活，那麼都電荒川線會是一個很好的選擇。從人文薈 [&#8230;]]]></description>
-									</item>
-		<item>
-		<title>東京・淺草 &#124; 夜訪淺草寺</title>
-		<link>https://indeedinvest.info/tokyo-asakusa-temple/</link>
-				<pubDate>Mon, 18 May 2020 14:43:58 +0000</pubDate>
-		<dc:creator><![CDATA[at12885]]></dc:creator>
-				<category><![CDATA[旅行遊記]]></category>
-		<category><![CDATA[日本]]></category>
-		<category><![CDATA[散步]]></category>
-		<category><![CDATA[東京]]></category>
-		<category><![CDATA[淺草]]></category>
-
-		<guid isPermaLink="false">https://indeedinvest.info/?p=1153</guid>
-				<description><![CDATA[淺草寺是東京都內歷史最悠久的寺院，每年吸引眾多觀光客拜訪。早上的淺草寺人聲鼎沸，作為一個景 [&#8230;]]]></description>
 									</item>
 	</channel>
 </rss>

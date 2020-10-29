@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>海邊 &#8211; 企鵝旅行手札</title>
+	<atom:link href="https://indeedinvest.info/tag/%E6%B5%B7%E9%82%8A/feed/" rel="self" type="application/rss+xml" />
+	<link>https://indeedinvest.info</link>
+	<description>慢一點，靈魂才跟得上</description>
+	<lastBuildDate>Thu, 29 Oct 2020 14:34:05 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<item>
+		<title>神奈川・江之島 &#124; 被大海擁抱的夏季</title>
+		<link>https://indeedinvest.info/kanagawa-enoshima-summer-walking/</link>
+				<pubDate>Sun, 30 Aug 2020 14:54:21 +0000</pubDate>
+		<dc:creator><![CDATA[at12885]]></dc:creator>
+				<category><![CDATA[旅行遊記]]></category>
+		<category><![CDATA[日本]]></category>
+		<category><![CDATA[夏天]]></category>
+		<category><![CDATA[江之島]]></category>
+		<category><![CDATA[海邊]]></category>
+		<category><![CDATA[神奈川]]></category>
+
+		<guid isPermaLink="false">https://indeedinvest.info/?p=2008</guid>
+				<description><![CDATA[拜訪江之島你可以欣賞到海天一色的浩瀚，也可以享受落日餘暉的絢麗，在海風的吹拂下，一切的眾生 [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>
