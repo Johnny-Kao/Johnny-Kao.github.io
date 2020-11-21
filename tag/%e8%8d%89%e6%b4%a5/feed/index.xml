@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>草津 &#8211; 企鵝旅行手札</title>
+	<atom:link href="https://indeedinvest.info/tag/%E8%8D%89%E6%B4%A5/feed/" rel="self" type="application/rss+xml" />
+	<link>https://indeedinvest.info</link>
+	<description>慢一點，靈魂才跟得上</description>
+	<lastBuildDate>Sat, 21 Nov 2020 17:08:21 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<item>
+		<title>群馬・草津温泉 &#124; 探訪日本三大名湯之一</title>
+		<link>https://indeedinvest.info/gunma-kusatsu-enjoy-hot-spring/</link>
+				<pubDate>Thu, 17 Sep 2020 23:00:36 +0000</pubDate>
+		<dc:creator><![CDATA[at12885]]></dc:creator>
+				<category><![CDATA[旅行遊記]]></category>
+		<category><![CDATA[日本]]></category>
+		<category><![CDATA[溫泉]]></category>
+		<category><![CDATA[群馬]]></category>
+		<category><![CDATA[草津]]></category>
+
+		<guid isPermaLink="false">https://indeedinvest.info/?p=2064</guid>
+				<description><![CDATA[日本三大名湯分別是：群馬縣「草津溫泉」、兵庫縣「有馬温泉」、岐阜縣「下呂溫泉」。其中本次拜 [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>
